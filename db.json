@@ -1,0 +1,206 @@
+{
+  "Users": [
+    {
+      "id": "1",
+      "name": "yogi",
+      "email": "yogi@gmail.com",
+      "password": "admin123"
+    }
+  ],
+  "destinations": [],
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Java Developer",
+      "company": "TCS",
+      "location": "Hyderabad",
+      "category": "Software Development",
+      "jobType": "Full Time",
+      "experience": "Fresher",
+      "salary": 400000,
+      "description": "Looking for a Java Developer with knowledge of Core Java, OOP concepts and SQL.",
+      "requirements": [
+        "Core Java",
+        "OOP Concepts",
+        "MySQL",
+        "Spring Boot",
+        "Problem Solving"
+      ],
+      "skills": [
+        "Java",
+        "SQL",
+        "Spring Boot"
+      ],
+      "qualification": "B.Tech CSE",
+      "postedDate": "2026-11-01",
+      "deadline": "2026-12-30",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMbY5cTL8mIidnfBImK6sGFtkNVKjG7AYcMG3EnEiFqw&s=10"
+    },
+    {
+      "id": "2",
+      "title": "Full Stack Developer",
+      "company": "Infosys",
+      "location": "Bangalore",
+      "category": "Frontend Development",
+      "jobType": "Full Time",
+      "experience": "Fresher",
+      "salary": 450000,
+      "description": "Seeking a React Developer familiar with modern frontend development.",
+      "requirements": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "REST APIs"
+      ],
+      "skills": [
+        "React",
+        "JavaScript",
+        "CSS"
+      ],
+      "qualification": "B.Tech",
+      "postedDate": "2026-11-02",
+      "deadline": "2026-12-25",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQh_TCb-DVvjOUuvp9EwJiiF2B7_gTbXeE_cyUngPVLA&s=10"
+    },
+    {
+      "id": "3",
+      "title": "Python Developer",
+      "company": "Wipro",
+      "location": "Hyderabad",
+      "category": "Backend Development",
+      "jobType": "Full Time",
+      "experience": "0-1 Years",
+      "salary": 380000,
+      "description": "Python Developer required for backend application development.",
+      "requirements": [
+        "Python",
+        "Django",
+        "SQL",
+        "REST API"
+      ],
+      "skills": [
+        "Python",
+        "Django",
+        "SQL"
+      ],
+      "qualification": "B.Tech or BCA",
+      "postedDate": "2026-11-03",
+      "deadline": "2026-12-20",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4g8QI7mT2PnZ1wz4nstGNrUZSMnm0egmCdVwwTa7_QQ&s"
+    },
+    {
+      "id": "4",
+      "title": "Software Engineer",
+      "company": "Google",
+      "location": "Bangalore",
+      "category": "Software Development",
+      "jobType": "Full Time",
+      "experience": "0-2 Years",
+      "salary": 1200000,
+      "description": "Software Engineer opportunity for candidates with programming and problem-solving skills.",
+      "requirements": [
+        "DSA",
+        "Java",
+        "Python",
+        "Computer Science Fundamentals"
+      ],
+      "skills": [
+        "Java",
+        "Python",
+        "DSA"
+      ],
+      "qualification": "B.Tech CSE",
+      "postedDate": "2026-11-04",
+      "deadline": "2026-12-28",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-SzlkP8IrkdTD1OYMVyOYQCLbUYw9L7Au2aNpYJ7n2w&s=10"
+    },
+    {
+      "id": "5",
+      "title": "Frontend Developer Intern",
+      "company": "Startup India",
+      "location": "Remote",
+      "category": "Frontend Development",
+      "jobType": "Internship",
+      "experience": "Fresher",
+      "salary": 150000,
+      "description": "Frontend internship for students interested in building modern web applications.",
+      "requirements": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "React"
+      ],
+      "qualification": "Pursuing B.Tech",
+      "postedDate": "2026-11-05",
+      "deadline": "2026-12-15",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfKhbzhZK6cBgltDNwAmMLM-7dyjZoTlSHd0fOnjYFUQ&s=10"
+    },
+    {
+      "title": "full stack developer",
+      "company": "Deloitte",
+      "location": "hyderabad",
+      "category": "SE",
+      "jobType": "Full Time",
+      "experience": "1",
+      "salary": 200000,
+      "description": "Deloitte is a multinational professional services network and one of the \"Big Four\" accounting firms globally, alongside Ernst & Young (EY), KPMG, and PwC. Founded in London in 1845 by William Welch Deloitte, the network operates through a web of independent member firms across more than 150 countries and territories.\n\nCore Services\n\n• Audit & Assurance: Traditional financial statement audits, internal controls assurance, and regulatory compliance.\n• Consulting: Strategy, analytics, mergers and acquisitions (M&A), human capital, and digital transformation.\n• Tax & Legal: Global tax advice, transfer pricing, and legal services.\n• Risk & Financial Advisory: Cybersecurity, risk management, and restructuring assistance.",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR79WS5P5kUQ0YcvcNHrXpitohNcjUry49zOuZc_-w7IA&s=10",
+      "skills": [],
+      "requirements": [],
+      "qualification": "",
+      "postedDate": "2026-11-11",
+      "deadline": "",
+      "id": "RDP7GNbRsns"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "ACCENTURE",
+      "location": "jaipur",
+      "category": "AI ",
+      "jobType": "Full Time",
+      "experience": "1",
+      "salary": 5000000,
+      "description": "Accenture is a global professional services and technology company that provides strategy, consulting, digital, technology, and operations services. [1] \n## Key Overview & Metrics\n\n* Headquarters: Dublin, Ireland\n* Leadership: Chair and CEO Julie Sweet\n* Global Workforce: Approximately 814,000 employees\n* Client Reach: Serves more than 9,000 clients across 120+ countries\n* Fiscal Revenue: Approximately $74 billion\n* History: Formerly known as Andersen Consulting before rebranding to Accenture in 2001. [2, 3, 4] \n\n## Core Services & Capabilities\n\n* Strategy & Consulting: Business reinvention, operating models, change management, and industry-specific advising. [1, 4] \n* Technology & Cloud: Systems integration, software engineering, cloud computing, cybersecurity, and data/AI solutions. [1, 3] \n* Operations: Business process outsourcing across supply chain, finance, procurement, and marketing. [1] \n* Ecosystem Partners: Deep alliances with major tech leaders including Microsoft, AWS, Google, Oracle, SAP, and Salesforce. [5, 6] \n\nYou can learn more on the official [Accenture Company Overview](https://www.accenture.com/en/about/company-index) or review their latest figures via the [Accenture Fact Sheet](https://newsroom.accenture.com/fact-sheet). [2, 4] \nWould you like information on Accenture's careers/hiring process, specific industry solutions, or their presence in India?\n\n[1] [https://www.globaldata.com](https://www.globaldata.com/company-profile/accenture/)\n[2] [https://www.accenture.com](https://www.accenture.com/en/about/company-index)\n[3] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/Accenture)\n[4] [https://newsroom.accenture.com](https://newsroom.accenture.com/fact-sheet)\n[5] [https://www.accenture.com](https://www.accenture.com/en/services)\n[6] [https://umbrex.com](https://umbrex.com/resources/profiles-of-the-top-consulting-firms/overview-profile-and-history-of-accenture/)\n",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3bxqdihayUKhGvkO5YbwJEXIvA13UeVAl--NFeN_rew&s=10",
+      "skills": [],
+      "requirements": [],
+      "qualification": "",
+      "postedDate": "2026-11-12",
+      "deadline": "",
+      "id": "G3FdR-09ang"
+    }
+  ],
+  "users": [
+    {
+      "name": "Yogeeswar Mukala",
+      "email": "yogeeswarmukala2@gmail.com",
+      "password": "m.yogi",
+      "id": "BpRiuPPODII"
+    },
+    {
+      "name": "Yogeeswar Mukala",
+      "email": "yogeeswarmukala2@gmail.com",
+      "password": "m.yogi111",
+      "id": "4Fq9hStIUWQ"
+    },
+    {
+      "name": "Yogeeswar Mukala",
+      "email": "yogeeswarmukala2@gmail.com",
+      "password": "m.yogi111",
+      "id": "9AhFLJiuyZA"
+    },
+    {
+      "name": "Yogeeswar Mukala",
+      "email": "yogeeswarmukala2@gmail.com",
+      "password": "m.yogi111",
+      "id": "Z4z4G-nMPLk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
