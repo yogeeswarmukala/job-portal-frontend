@@ -1,4 +1,22 @@
-# React + Vite
+# Job Portal
+
+A React-based Job Portal application to explore and manage job opportunities.
+
+## Live Demo
+
+[Click here to visit Job Portal](https://comforting-pavlova-f6e784.netlify.app)
+
+## Technologies Used
+
+- React.js
+- JavaScript
+- HTML5 & CSS3
+- Redux Toolkit
+- React Router
+- Axios
+- JSON Server
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
